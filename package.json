@@ -1,0 +1,30 @@
+{
+  "name": "list-to-qrcode",
+  "version": "0.0.1",
+  "description": "From a CSV list create a QR Code Image in SVG format.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajbloureiro/list-to-qrcode.git"
+  },
+  "keywords": [
+    "qrcode",
+    "generator",
+    "findhit",
+    "ajbloureiro"
+  ],
+  "author": "Antonio Loureiro <ajbloureiro@findhit.com>",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/ajbloureiro/list-to-qrcode/issues"
+  },
+  "homepage": "https://github.com/ajbloureiro/list-to-qrcode",
+  "dependencies": {
+    "canvas": "^1.1.6",
+    "fast-csv": "^0.5.4",
+    "findhit-util": "^0.2.5",
+    "fs": "0.0.2",
+    "process": "^0.10.0",
+    "qr-image": "^3.0.2"
+  }
+}
