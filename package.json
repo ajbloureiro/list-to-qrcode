@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/ajbloureiro/list-to-qrcode",
   "dependencies": {
-    "canvas": "^1.1.6",
     "fast-csv": "^0.5.4",
     "findhit-util": "^0.2.5",
     "fs": "0.0.2",
+    "mkpath": "^0.1.0",
     "process": "^0.10.0",
     "qr-image": "^3.0.2"
   }
