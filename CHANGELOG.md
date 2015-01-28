@@ -1,6 +1,8 @@
-## Upcoming
-- ir ao café
 
+
+## 0.0.2
+- Fixed dependecies
+  Updated User Manual
 
 ## 0.0.1
-- Added methods abc,hello,foo,bar,sum
+- Main code
